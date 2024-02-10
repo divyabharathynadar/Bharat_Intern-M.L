@@ -8,7 +8,7 @@ This repository consists of the tasks which I have completed given during **Mach
 
 ### To build a movie recommendation system using collaborative filtering and machinelearning techniques in Python.
 
-To see the implementation check this link - 
+To see the implementation check this link - https://github.com/divyabharathynadar/Bharat_Intern-M.L/blob/main/Movie%20recommendations/app.py
 
 ## Task 2 - House Price Prediction
 
